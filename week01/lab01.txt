@@ -20,3 +20,9 @@ drwxr-xr-x  2 syifa.nurhayati StafCS 4096 Feb 13 21:59 week09
 drwxr-xr-x  2 syifa.nurhayati StafCS 4096 Feb 13 21:59 week10
 drwxr-xr-x  2 syifa.nurhayati StafCS 4096 Feb 13 22:01 xtra
 /home/fasilkom/mahasiswa/s/syifa.nurhayati/os171/week01
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is date+%d\%b\%Y\at\%H:%M:%S
+Today is date+%d\%b\%Y\at\%H:%M:%S
+Today is date+%d\%b\%Y\at\%H:%M:%S
+Today is 
+Today is 16 Feb 2017 at 10:04:30

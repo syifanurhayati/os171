@@ -1,0 +1,12 @@
+w01-170213-21-About: Github learning
+w01-170213-21-PS-About: Github learning
+w01-170213-22-PS-About: Scripting learning
+w01-170213-22-PS-About: Scripting learning
+w01-170214-13-LR-About: paten and copyright, From: Lecture
+w01-170214-13-LR-About: paten and copyright, From: Lecture
+w01-170214-14-LR-About: intorduction to linux and git command, From: Lecture
+w01-170216-13-LR-About: watching demo form lecture about linux n C code, From: Lecture
+w01-170216-13-LR-About: watching demo form lecture about linux n C code, From: Lecture
+w01-170216-14-LR-About: watching demo form lecture about linux n C code, From: Lecture
+w01-170216-14-LR-About: watching demo form lecture about linux n C code, From: Lecture
+w01-170216-16-PS-About: completed lab01, intro to scripting

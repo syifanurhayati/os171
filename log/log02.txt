@@ -1,0 +1,11 @@
+w02-170221-13-LR-About: Scripting, Protection, and Security
+w02-170221-13-LR-About: Scripting, Protection, and Security
+w02-170221-14-LR-About: Scripting, Protection, and Security
+w02-170223-10-PS-doing lab session
+w02-170223-10-PS-doing lab session
+w02-170223-11-PS-doing lab session
+w02-170223-11-PS-doing lab session
+w02-170223-13-LR-About: coding in C
+w02-170223-13-LR-About: coding in C
+w02-170223-14-LR-About: coding in C
+w02-170224-20-PS-doing lab session, done lab week02

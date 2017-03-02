@@ -1,0 +1,9 @@
+w03-170228-13-LR-About: Booting and BIOS
+w03-170228-13-LR-About: Booting and BIOS
+w03-170228-14-LR-About: Kuis and review
+w03-170302-13-LR-About: BIOS and UEFI
+w03-170302-13-LR-About: BIOS and UEFI
+w03-170302-14-LR-About: BIOS and UEFI
+w03-170302-16-PS-doing lab session
+w03-170302-17-PS-doing lab session
+w03-170302-17-PS-doing lab session

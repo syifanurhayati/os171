@@ -10,3 +10,4 @@ w01-170216-13-LR-About: watching demo form lecture about linux n C code, From: L
 w01-170216-14-LR-About: watching demo form lecture about linux n C code, From: Lecture
 w01-170216-14-LR-About: watching demo form lecture about linux n C code, From: Lecture
 w01-170216-16-PS-About: completed lab01, intro to scripting
+

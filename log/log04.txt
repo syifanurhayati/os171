@@ -1,0 +1,11 @@
+w04-170307-13-LR-About: Unix I/O Programming
+w04-170307-13-LR-About: Unix I/O Programming
+w04-170307-14-LR-About: Unix I/O Programming
+w04-170309-11-PS: doing lab session (global local variable)
+w04-170309-12-PS: doing lab session (global local variable)
+w04-170309-13-LR-About: Pointer
+w04-170309-13-LR-About: Pointer
+w04-170309-14-LR-About: Pointer
+w04-170310-8-PS-doing lab session (open close)
+w04-170310-8-PS-doing lab session (open close)
+w04-170310-9-PS-doing lab session (read writes)

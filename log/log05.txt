@@ -1,0 +1,7 @@
+w05-170314-13-LR-About: Binding of Instruction & Data to Memory
+w05-170314-13-LR-About: Binding of Instruction & Data to Memory
+w05-170314-14-LR-About: Binding of Instruction & Data to Memory
+w05-170317-22-PS: doing lab session (memory)
+w05-170317-22-PS: doing lab session & learn bout memory
+w05-170318-13-PS: doing lab session & learn about field management, From : http://manpages.ubuntu.com/manpages/xenial/man1/top.1.html
+w05-170310-14-PS: doing lab session, finishing

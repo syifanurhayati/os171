@@ -1,9 +1,11 @@
--About: fork
-w06-170411-13-LR-About: fork exercise
-w06-170411-14-LR-About: for exercise
-w06-170413-9-PS: doing lab session (fork)
-w06-170413-10-PS: doing lab session (fork)
-w06-170415-13-PS: doing lab session & learn about fork
-w06-170415-14-PS: doing lab session & learn about fork
-w06-170415-14-PS: doing lab session, finishing
+w07-170418-13-LR-About: syncronization
+w07-170418-13-LR-About: syncronization
+w07-170418-14-LR-About: syncronization
+w07-170420-13-LR-About: semaphore exercise
+w07-170420-13-LR-About: semaphore exercise
+w07-170420-14-LR-About: semapore exercise
+w07-170422-12-PS: doing lab session
+w07-170422-13-PS: doing lab session
+w07-170415-13-PS: doing lab session
+w07-170415-14-PS: doing lab session, finishing
 

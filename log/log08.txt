@@ -1,0 +1,9 @@
+w08-170425-13-LR-About: scheduling
+w08-170425-13-LR-About: scheduling
+w08-170425-14-LR-About: scheduling
+w08-170427-16-PS: doing lab session with friends
+w08-170427-16-PS: doing lab session with friends
+w08-170427-17-PS: doing lab session with friends
+w08-170427-13-PS: doing lab session with friends (starting from the beginning, because there was a small change in step week08)
+w08-170429-21-PS: doing lab session, completing lab08.txt
+
